@@ -31,3 +31,16 @@
     transform: rotate(360deg);
   }
 }
+.box {
+  display: flex;
+}
+.box > h1 {
+  padding: 10px;
+}
+.btn-plus {
+  height: 70px;
+  width: 70px;
+}
+.option-inline {
+  display: grid;
+}
